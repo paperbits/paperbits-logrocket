@@ -6,10 +6,7 @@ import { LogRocketSettings } from "./logrocketSettings";
 
 
 export class LogRocketLogger implements Logger {
-    private initialized: boolean;
-
     constructor(private readonly settingsProvider: ISettingsProvider) {
-        this.initialized = false;
         this.init();
     }
 
