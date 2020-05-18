@@ -1,0 +1,19 @@
+{
+    "name": "@paperbits/logrocket",
+    "version": "1.0.0",
+    "description": "LogRocket library for Paperbits components.",
+    "license": "MIT",
+    "author": "Paperbits",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/paperbits/paperbits-logrocket.git"
+    },
+    "keywords": [
+        "paperbits",
+        "logrocket"
+    ],
+    "dependencies": {
+        "@paperbits/common": "0.1.280",
+        "logrocket": "^1.0.7"
+    }
+}
