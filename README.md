@@ -13,7 +13,7 @@ npm i @paperbits/logrocket --save
 ```
 
 ## Usage
-Add imports and registration `startup.design.ts` file of your project:
+Add imports and registration to `startup.design.ts` file of your project:
 
 ```ts
 import { LogRocketDesignModule } from "@paperbits/logrocket/logrocket.design.module";
